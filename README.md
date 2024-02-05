@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## HOME PAGE
+
+![Screenshot (890)](https://github.com/khadar1020/Algorithm-Avengers/assets/124120102/65cd855c-57d6-4c98-8e48-881cd70cceba)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
